@@ -1,0 +1,17 @@
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\bin\Debug\net6.0-windows\WinFormsApp1_TPMOD2.exe
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\bin\Debug\net6.0-windows\WinFormsApp1_TPMOD2.deps.json
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\bin\Debug\net6.0-windows\WinFormsApp1_TPMOD2.runtimeconfig.json
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\bin\Debug\net6.0-windows\WinFormsApp1_TPMOD2.dll
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\bin\Debug\net6.0-windows\WinFormsApp1_TPMOD2.pdb
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.csproj.AssemblyReference.cache
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.Form1.resources
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.csproj.GenerateResource.cache
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.GeneratedMSBuildEditorConfig.editorconfig
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.AssemblyInfoInputs.cache
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.AssemblyInfo.cs
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.csproj.CoreCompileInputs.cache
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.dll
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\refint\WinFormsApp1_TPMOD2.dll
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.pdb
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\WinFormsApp1_TPMOD2.genruntimeconfig.cache
+D:\task\TPMOD-3-KPL\WinFormsApp1_TPMOD2\WinFormsApp1_TPMOD2\obj\Debug\net6.0-windows\ref\WinFormsApp1_TPMOD2.dll
